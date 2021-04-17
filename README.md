@@ -1,4 +1,4 @@
-# Simple Python IDE using Tkinter
+# AI Trainer
 n this Project on building an AI Trainer using OpenCV and Python. We will use the pose estimation running on the CPU to find the correct points and using these points we will get the desired angles. Then based on these angles we find many gestures including the number of biceps curls. I will write the code in a way that you will be able to find…
 
 
