@@ -1,8 +1,5 @@
 # Simple Python IDE using Tkinter
-This is a Simple Python IDE using Tkinter. We can Run our Python Code here. we open our saved code in this IDE. 
-when you can't save your code and run it an error message show **"Please save your code"**. 
-This Python IDE develops using Tkintertable & subprocess. run module. 
-After your code will run successfully, to exit from the IDE go to File and click the Exit Button.
+n this Project on building an AI Trainer using OpenCV and Python. We will use the pose estimation running on the CPU to find the correct points and using these points we will get the desired angles. Then based on these angles we find many gestures including the number of biceps curls. I will write the code in a way that you will be able to find…
 
 
 ## Setup instructions
