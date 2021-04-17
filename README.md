@@ -1,5 +1,5 @@
 # AI Trainer
-n this Project on building an AI Trainer using OpenCV and Python. We will use the pose estimation running on the CPU to find the correct points and using these points we will get the desired angles. Then based on these angles we find many gestures including the number of biceps curls. I will write the code in a way that you will be able to find…
+In this Project on building an AI Trainer using OpenCV and Python. We will use the pose estimation running on the CPU to find the correct points and using these points we will get the desired angles. Then based on these angles we find many gestures including the number of biceps curls. I will write the code in a way that you will be able to find…
 
 
 ## Setup instructions
@@ -12,16 +12,22 @@ There are two ways to run it on your Linux,MAC or Windows
 - Python3
 
 ```bash
-pip install tkintertable
+pip install opencv-python
 ```
 ```bash
-pip install subprocess.run
+pip install mediapipe
+```
+```bash
+pip install times
+```
+```bash
+pip install numpy
 ```
 Click on the **Click Here** to see the Simple Python IDE using Tkinter Demo on YouTube.
 
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
-|Simple Python IDE using Tkinter| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) | tkintertable, subprocess.run
+|AI Trainer| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) | openCV,mediapipe,math,time,numpy
 
 ## Output
 
