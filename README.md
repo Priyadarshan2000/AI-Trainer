@@ -41,7 +41,7 @@ Click on the **Click Here** to see the Simple Python IDE using Tkinter Demo on Y
 
 ## Demo
 
-![20210329_130409](https://user-images.githubusercontent.com/62868878/112802134-7013c900-908f-11eb-806a-157f8b6a6770.gif)
+![WhatsApp Video 2021-04-18 at 2 17 56 AM](https://user-images.githubusercontent.com/62868878/115126408-6d502800-9fec-11eb-9f98-6011a4bdba8b.gif)
 
 
 ## Author(s)
