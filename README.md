@@ -32,7 +32,7 @@ Click on the **Click Here** to see the Simple Python IDE using Tkinter Demo on Y
 
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
-|AI Trainer| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) | OpenCV, mediapipe, math, time, numpy
+|AI Trainer| [Click Here](https://www.youtube.com/watch?v=2BPekN-Gco8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) | OpenCV, mediapipe, math, time, numpy
 
 ## Output
 
